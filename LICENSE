@@ -1,1 +1,1 @@
-rm -rf /vinbrain/parlai
+echo hi
